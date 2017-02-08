@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorHighlight">#81ff40</color>
+    <color name="colorYellow">#fff56d</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorText">#696969</color>
+    <color name="colorTextLabel">#696969</color>
+    <color name="colorTextVal">#527074</color>
+    <color name="colorProgressBg">#55a3bfc6</color>
+
+</resources>
